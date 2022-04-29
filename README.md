@@ -17,7 +17,7 @@ Twitter: [Axel Soler](https://twitter.com/AxelSoler18)
 I am from Argentina, have a degree in electromechanical engineering, studying to be a Full-Stack developer and Front-end developer, learning to join the world.
 Also like sports and video games.
 
-Link to my PORTFOLIO [here](https://axelsoler.github.io/Axel-Soler-Portfolio/)
+Link to my [PORTFOLIO](https://axelsoler.github.io/Axel-Soler-Portfolio/)
 
 <!--
 **AxelSoler/AxelSoler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
