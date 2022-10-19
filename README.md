@@ -1,6 +1,6 @@
 ### Hi, I am Axel Soler 👋
 
-## Remote Full-stack web developer trying to learn more!!!
+## Remote Full-stack web developer always learning more!!!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AxelSoler)](https://github.com/AxelSoler/github-readme-stats)
 
