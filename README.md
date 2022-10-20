@@ -17,7 +17,7 @@ Twitter: [Axel Soler](https://twitter.com/AxelSoler18)
 I am from Argentina, a Full-Stack developer and Front-end developer, have a degree in electromechanical engineering. learning to join the world. And also like sports and video games.
 
 
-Link to my [PORTFOLIO](https://teal-lily-641512.netlify.app/)
+Link to my [PORTFOLIO](https://axel-soler-dev.netlify.app//)
 
 <!--
 **AxelSoler/AxelSoler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
