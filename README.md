@@ -14,7 +14,7 @@ Twitter: [Axel Soler](https://twitter.com/AxelSoler18)
 
 ## More about me
 
-I am from Argentina, a Full-Stack developer and Front-end developer, have a degree in electromechanical engineering. learning to join the world. And also like sports and video games.
+I am from Argentina, a Full-Stack developer, have a degree in electromechanical technician. learning to join the world. And also like sports and video games.
 
 
 Link to my [PORTFOLIO](https://axel-soler-dev.netlify.app//)
