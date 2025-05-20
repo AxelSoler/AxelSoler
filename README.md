@@ -2,8 +2,6 @@
 
 ## Remote Full-stack web developer always learning more!!!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AxelSoler)](https://github.com/AxelSoler/github-readme-stats)
-
 📫 How to reach me: 
 
 GitHub: [@AxelSoler](https://github.com/AxelSoler)
