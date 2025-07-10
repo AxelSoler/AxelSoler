@@ -12,7 +12,15 @@ Twitter: [Axel Soler](https://twitter.com/AxelSoler18)
 
 ## More about me
 
-I am from Argentina, a Full-Stack developer, have a degree in electromechanical technician. learning to join the world. And also like sports and video games.
+I am from Argentina, a Full-Stack developer. Learning around the world. I mainly work with React, Next.js, and Tailwind CSS, building clean and scalable user experiences.
+
+I love working in remote, collaborative environments where I can grow with others and contribute to something meaningful. I’ve been part of agile teams across different time zones and enjoy pairing up, sharing knowledge, and iterating fast.
+
+I’m detail-oriented, receptive to feedback, and constantly learning. I believe in continuous improvement, staying humble, and building meaningful things together.
+
+Fluent in English and Spanish, I can adapt and communicate easily with international teams.
+
+
 
 
 My [PORTFOLIO](https://axel-soler-dev.netlify.app//)
