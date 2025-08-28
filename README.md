@@ -8,8 +8,6 @@ GitHub: [@AxelSoler](https://github.com/AxelSoler)
 
 LinkedIn: [Axel Soler](https://www.linkedin.com/in/axel-soler-685985232/)
 
-Twitter: [Axel Soler](https://twitter.com/AxelSoler18)
-
 ## More about me
 
 I am from Argentina, a Full-Stack developer. Learning around the world. I mainly work with React, Next.js, and Tailwind CSS, building clean and scalable user experiences.
@@ -23,7 +21,7 @@ Fluent in English and Spanish, I can adapt and communicate easily with internati
 
 
 
-My [PORTFOLIO](https://axel-soler-dev.netlify.app//)
+[Portfolio](https://axel-soler-dev.netlify.app//)
 
 <!--
 **AxelSoler/AxelSoler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
